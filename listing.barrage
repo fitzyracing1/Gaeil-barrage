@@ -1,0 +1,39 @@
+# Gaeil
+
+> A named Python repo. This wrap keeps the Irish-facing name and points back to the source files.
+
+## Purpose
+Give a plain-language door to fitzyracing1/Gaeil so the project can be opened without guessing from the title alone.
+
+## How it works (plain English)
+1. Keep the original repo as the place for code.
+2. Use this clone only to explain the idea in everyday words.
+3. Send the reader back to the source for any run.
+
+## Key ideas
+- Gaeil (the project name)
+- Wrap (this page explains; it does not replace)
+
+## The actual code
+```
+# source: fitzyracing1/Gaeil
+open_source()
+read_python()
+```
+
+## Line-by-line translation
+1. open_source() → “go to the original repo”
+2. read_python() → “the working files are Python there”
+
+## Decisions the program makes
+- If a reader needs the program → send them to the source
+- If a reader needs the idea → stay on this listing
+
+## What a person would notice
+A named wrap that refuses to hide the original.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open fitzyracing1/Gaeil and read the README there.
